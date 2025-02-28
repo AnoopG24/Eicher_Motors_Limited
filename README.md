@@ -1,3 +1,3 @@
-# Projects--Finance
-This is my respositary created for show the project on "Eicher Motors Limited". I have created a finanical model with accomapning schedules. The data needed to create the finanical model is being extarcted from screener.in.
+# Projects--Financial modeling
+This is my respositary created for show my financial modeling projects. I have created folder for specific companies of which I have created finanical models for.
 
